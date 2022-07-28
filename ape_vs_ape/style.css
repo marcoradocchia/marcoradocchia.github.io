@@ -21,8 +21,23 @@ ul {
   text-align: left;
 }
 
-ul.contacts {
+ul.mails {
   list-style: circle;
+}
+
+.picture {
+  padding: 0px 0px;
+  margin-left: 0px;
+  margin-right: 0px;
+  margin-top: 1em;
+  margin-bottom: 1em;
+  width: 100%;
+}
+
+.bee-picture {
+  width: 25%;
+  height: auto;
+  padding: 0px 10px;
 }
 
 .title-block-header {
@@ -36,7 +51,7 @@ ul.contacts {
 
 .nav-links li {
   display: inline-block;
-  padding: 0px 20px;
+  padding: 0px 10px;
 }
 
 .yt-embed {
@@ -52,6 +67,10 @@ ul.contacts {
   height: 100%;
 }
 
-.picture {
-  width: 80%;
+#us {
+  width: 90%;
+}
+
+.donations {
+  text-align: left;
 }
