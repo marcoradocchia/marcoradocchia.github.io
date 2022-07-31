@@ -25,6 +25,10 @@ ul.mails {
   list-style: circle;
 }
 
+ul.donations {
+  list-style: circle;
+}
+
 .picture {
   padding: 0px 0px;
   margin-left: 0px;
